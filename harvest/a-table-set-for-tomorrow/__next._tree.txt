@@ -1,0 +1,3 @@
+:HL["/_next/static/css/3ad4cb27651e3032.css","style"]
+:HL["/harvest-table-tomorrow-hero.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"harvest","param":null,"prefetchHints":0,"slots":{"children":{"name":"a-table-set-for-tomorrow","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ls2qfTx6Y9VELQDXg836Q"}

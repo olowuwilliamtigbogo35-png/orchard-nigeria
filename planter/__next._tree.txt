@@ -1,0 +1,8 @@
+:HL["/_next/static/css/3ad4cb27651e3032.css","style"]
+:HL["/portrait-remi-formal.webp","image"]
+:HL["/portrait-remi-community.jpg","image"]
+:HL["/portrait-remi-address.webp","image"]
+:HL["/portrait-remi-senate.jpeg","image"]
+:HL["/portrait-remi-reflection.jpeg","image"]
+:HL["/portrait-remi-green-address.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"planter","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ls2qfTx6Y9VELQDXg836Q"}

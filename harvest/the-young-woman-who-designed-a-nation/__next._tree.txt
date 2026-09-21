@@ -1,0 +1,4 @@
+:HL["/_next/static/css/3ad4cb27651e3032.css","style"]
+:HL["/harvest-unity-fabric-award.jpg","image"]
+:HL["/harvest-unity-fabric-ceremony.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"harvest","param":null,"prefetchHints":0,"slots":{"children":{"name":"the-young-woman-who-designed-a-nation","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ls2qfTx6Y9VELQDXg836Q"}
