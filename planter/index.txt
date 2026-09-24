@@ -42,4 +42,4 @@ f:["$","div",null,{"className":"p3-bio-copy","children":["$","p",null,{"children
 22:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 25:I[257,[],"IconMark"]
 1f:null
-24:[["$","title","0",{"children":"The Orchard | 1,001 Seeds of Service"}],["$","meta","1",{"name":"description","content":"Journey through 1,001 literary meditations on service, compassion and impact inspired by Senator Oluremi Tinubu, CON."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L25","4",{}]]
+24:[["$","title","0",{"children":"The Planter | An Orchard Called Nigeria"}],["$","meta","1",{"name":"description","content":"Meet the woman behind the seeds: Her Excellency, Senator Oluremi Tinubu, CON."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L25","4",{}]]

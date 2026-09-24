@@ -30,4 +30,4 @@ f:["$","nav",null,{"className":"seed-detail-pagination","aria-label":"Seed stori
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 1d:I[257,[],"IconMark"]
 17:null
-1c:[["$","title","0",{"children":"The Seed of Togetherness | The Orchard"}],["$","meta","1",{"name":"description","content":"One Cloth, Many Hands — a literary meditation inspired by the Unity Fabric Competition."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1d","4",{}]]
+1c:[["$","title","0",{"children":"The Seed of Togetherness | An Orchard Called Nigeria"}],["$","meta","1",{"name":"description","content":"One Cloth, Many Hands — a literary meditation inspired by the Unity Fabric Competition."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1d","4",{}]]

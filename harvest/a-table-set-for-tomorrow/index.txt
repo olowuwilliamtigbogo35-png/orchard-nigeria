@@ -27,4 +27,4 @@ f:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","ch
 18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 1b:I[257,[],"IconMark"]
 15:null
-1a:[["$","title","0",{"children":"A Table Set for Tomorrow | The Orchard"}],["$","meta","1",{"name":"description","content":"A nonfiction meditation inspired by the National Community Food Bank Programme and its nationwide rollout."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1b","4",{}]]
+1a:[["$","title","0",{"children":"A Table Set for Tomorrow | An Orchard Called Nigeria"}],["$","meta","1",{"name":"description","content":"A nonfiction meditation inspired by the National Community Food Bank Programme and its nationwide rollout."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1b","4",{}]]

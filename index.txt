@@ -21,4 +21,4 @@ c:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","di
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 15:I[257,[],"IconMark"]
 10:null
-14:[["$","title","0",{"children":"The Orchard | 1,001 Seeds of Service"}],["$","meta","1",{"name":"description","content":"Journey through 1,001 literary meditations on service, compassion and impact inspired by Senator Oluremi Tinubu, CON."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L15","4",{}]]
+14:[["$","title","0",{"children":"An Orchard Called Nigeria | 1,001 Seeds of Service"}],["$","meta","1",{"name":"description","content":"Explore literary meditations on service, compassion and impact inspired by Senator Oluremi Tinubu, CON — from the New Era Foundation to the Renewed Hope Initiative."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L15","4",{}]]

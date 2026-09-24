@@ -25,4 +25,4 @@ f:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","di
 16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 19:I[257,[],"IconMark"]
 13:null
-18:[["$","title","0",{"children":"The Girl Who Came Back | The Orchard"}],["$","meta","1",{"name":"description","content":"The true story of Ebere Ndulue and her return to education at the Alternative High School for Girls in Agboju, Lagos."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L19","4",{}]]
+18:[["$","title","0",{"children":"The Girl Who Came Back | An Orchard Called Nigeria"}],["$","meta","1",{"name":"description","content":"The true story of Ebere Ndulue and her return to education at the Alternative High School for Girls in Agboju, Lagos."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L19","4",{}]]

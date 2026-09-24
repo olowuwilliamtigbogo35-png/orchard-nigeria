@@ -31,4 +31,4 @@ f:["$","section",null,{"id":"historical-note","className":"seed-detail-section s
 1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 1e:I[257,[],"IconMark"]
 18:null
-1d:[["$","title","0",{"children":"The Seed of Care | The Orchard"}],["$","meta","1",{"name":"description","content":"The Last Person She Thought Of — a literary reflection on caring for Nigeria’s frontline healthcare workers."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1e","4",{}]]
+1d:[["$","title","0",{"children":"The Seed of Care | An Orchard Called Nigeria"}],["$","meta","1",{"name":"description","content":"The Last Person She Thought Of — a literary reflection on caring for Nigeria’s frontline healthcare workers."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L1e","4",{}]]
